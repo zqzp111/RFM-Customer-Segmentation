@@ -24,7 +24,7 @@
 ## 📂 数据集 | Dataset
 
 由于原始数据较大（45MB），请从Kaggle自行下载：  
-[Online Retail Dataset](https://www.kaggle.com/datasets/saharpourahmad/online-retail-data-set/data)
+[Online Retail Dataset]([https://www.kaggle.com/datasets/vijayuv/onlineretail])
 
 **文件放置**：下载后重命名为 `Online Retail.xlsx` 放入项目根目录即可运行。
 
@@ -63,3 +63,4 @@ Identified $52K recoverable revenue from churned customers
 Visualized results for non-technical stakeholders
 📬 联系方式 | Contact
 Email: z2050039274@outlook.com
+
